@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a competitive programmer and study in Computer Science & Engineering<br>I’m currently learning the MERN stack<br>Ask me about competitive programming , MERN stack development, or optimizing code efficiency<br>How to reach me: 0432220005101103@uits.edu.bd
+I’m a competitive programmer | web developer and studies at B.Sc in Computer Science & Engineering<br>I’m currently learning the MERN stack<br>Ask me about competitive programming , MERN stack development, or optimizing code efficiency<br>How to reach me: 0432220005101103@uits.edu.bd
 
 
 ## 🌐 Socials:
